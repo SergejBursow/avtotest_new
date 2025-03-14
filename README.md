@@ -1,1 +1,0 @@
-# avtotest_new
